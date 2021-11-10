@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Create a personal portfolio page and deploy it to [Github pages](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site). Please refer to the documentation on GitHub for detailed instructions. **We will walk you through GitHub Pages deployment tomorrow**.
+Create a personal portfolio page and deploy it to [Github pages](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site). Please refer to the documentation on GitHub for detailed instructions. **We will walk you through GitHub Pages deployment Friday**.
 
 You can use yesterday's [Git Intro Lesson](https://git.generalassemb.ly/java-interapt-11-8/Git-Intro-Lesson) for reference to get started.
 
