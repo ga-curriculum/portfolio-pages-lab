@@ -2,9 +2,9 @@
 
 ## Instructions
 
-Create a personal portfolio page and deploy it to [Github pages](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site). Please refer to the documentation on GitHub for detailed instructions. **We will walk you through GitHub Pages deployment Friday**.
+Create a personal portfolio page and deploy it to [Github pages](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site). Please refer to the documentation on GitHub for detailed instructions.
 
-You can use yesterday's [Git Intro Lesson](https://git.generalassemb.ly/java-interapt-11-8/Git-Intro-Lesson) for reference to get started.
+You can use yesterday's [Git Intro Lesson](https://git.generalassemb.ly/java-interapt-7-31/Git-Intro-Lesson) for reference to get started.
 
 
 1. In your `sei/labs` directory create a new folder called `portfolio`. Create `index.html` and `styles.css` file. Remember to link up the css file.
@@ -16,14 +16,14 @@ You can use yesterday's [Git Intro Lesson](https://git.generalassemb.ly/java-int
 - Separate concerns of semantics and style: your CSS should be in a linked stylesheet separate from your HTML.
 - Your HTML should [pass the W3 HTML validator](https://validator.w3.org/#validate_by_input).
 - Your CSS should [pass the W3 CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input).
-- Javascript isn't required, but you get bonus points for giving it a shot!
+- Javascript isn't required, but feel free to give it a shot!
 - Your page must be deployed to [Github pages](https://pages.github.com/). This is a free hosting service provided by Github. 
 
 > You have not been taught how to deploy to Github Pages. That's okay! This is an opportunity to learn something new on your own. Just follow the instructions [here](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site). If you run into any issues, just ask the instructor on lab support. If you want to give it a shot go for it, but **we will walk you through GitHub Pages deployment tomorrow**.
 
 ### Submission
 
-[Please **create an issue on this repo**](https://git.generalassemb.ly/java-interapt-3-13-2023/Portfolio-Pages-Lab/issues/new), containing a link to the **repo** you created and your **GitHub Pages URL**.
+[Please **create an issue on this repo**](https://git.generalassemb.ly/java-interapt-7-31/Portfolio-Pages-Lab/issues/new), containing a link to the **repo** you created and your **GitHub Pages URL**.
 
 ## Pairing with Others
 
