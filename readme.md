@@ -4,7 +4,7 @@
 
 Create a personal portfolio page and deploy it to [Github pages](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site). Please refer to the documentation on GitHub for detailed instructions.
 
-You can use yesterday's [Git Intro Lesson](https://git.generalassemb.ly/java-interapt-7-31/Git-Intro-Lesson) for reference to get started.
+You can use the previous [Git Intro Lesson](https://git.generalassemb.ly/java-interapt-7-31/Git-Intro-Lesson) for reference to get started.
 
 
 1. In your `sei/labs` directory create a new folder called `portfolio`. Create `index.html` and `styles.css` file. Remember to link up the css file.
