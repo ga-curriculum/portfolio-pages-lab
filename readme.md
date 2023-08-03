@@ -19,7 +19,7 @@ You can use yesterday's [Git Intro Lesson](https://git.generalassemb.ly/java-int
 - Javascript isn't required, but feel free to give it a shot!
 - Your page must be deployed to [Github pages](https://pages.github.com/). This is a free hosting service provided by Github. 
 
-> You have not been taught how to deploy to Github Pages. That's okay! This is an opportunity to learn something new on your own. Just follow the instructions [here](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site). If you run into any issues, just ask the instructor on lab support. If you want to give it a shot go for it, but **we will walk you through GitHub Pages deployment tomorrow**.
+> You have not been taught how to deploy to Github Pages. That's okay! This is an opportunity to learn something new on your own. Just follow the instructions [here](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site). If you run into any issues, just ask the instructor on lab support.
 
 ### Submission
 
